@@ -1,0 +1,11 @@
+#btn {
+  margin-top: 10px;
+}
+
+.btn-2 {
+  margin-right: 3rem;
+  margin-bottom: 1rem;
+}
+.btn-2:hover {
+  cursor: pointer;
+}
